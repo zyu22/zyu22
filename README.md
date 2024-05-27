@@ -38,3 +38,13 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
+
+
+<br>
+<br>
+<br>
+
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzyu22&count_bg=%2391A8BC&title_bg=%23E4CDBF&icon=awesomelists.svg&icon_color=%2391A8BC&title=hits&edge_flat=false"/></a>
+  
+</div>
